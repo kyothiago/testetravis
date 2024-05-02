@@ -1,4 +1,3 @@
-dist: Thiago
 language: python
 script: python --version
 install: skip
